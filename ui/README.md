@@ -1,6 +1,6 @@
-# attend-lora UI
+# Sightline UI
 
-A Vite + React presentation demo for the Attend AI venue intelligence platform. Talks to the FastAPI server (`scripts/api.py`) at `http://localhost:8000`.
+A Vite + React presentation demo for the Sightline venue intelligence platform. Talks to the FastAPI server (`scripts/api.py`) at `http://localhost:8000`.
 
 ## Setup
 

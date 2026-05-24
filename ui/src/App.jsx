@@ -26,6 +26,43 @@ const EVENT_TYPES = [
   { value: 'tennis',     label: 'Tennis'     },
 ];
 
+const FALLBACK_STADIUMS = [
+  { slug: 'madison_square_garden',       name: 'Madison Square Garden',       city: 'New York',         capacity: 20789 },
+  { slug: 'crypto_com_arena',            name: 'Crypto.com Arena',            city: 'Los Angeles',      capacity: 19060 },
+  { slug: 'united_center',               name: 'United Center',               city: 'Chicago',          capacity: 23500 },
+  { slug: 'chase_center',                name: 'Chase Center',                city: 'San Francisco',    capacity: 18000 },
+  { slug: 'american_airlines_center',    name: 'American Airlines Center',    city: 'Dallas',           capacity: 19200 },
+  { slug: 'toyota_center',               name: 'Toyota Center',               city: 'Houston',          capacity: 18023 },
+  { slug: 'state_farm_arena',            name: 'State Farm Arena',            city: 'Atlanta',          capacity: 19445 },
+  { slug: 'capital_one_arena',           name: 'Capital One Arena',           city: 'Washington, D.C.', capacity: 20674 },
+  { slug: 'at_t_stadium',                name: 'AT&T Stadium',                city: 'Arlington',        capacity: 105000 },
+  { slug: 'sofi_stadium',                name: 'SoFi Stadium',                city: 'Inglewood',        capacity: 70240 },
+  { slug: 'metlife_stadium',             name: 'MetLife Stadium',             city: 'East Rutherford',  capacity: 82500 },
+  { slug: 'arrowhead_stadium',           name: 'Arrowhead Stadium',           city: 'Kansas City',      capacity: 76416 },
+  { slug: 'lambeau_field',               name: 'Lambeau Field',               city: 'Green Bay',        capacity: 80750 },
+  { slug: 'soldier_field',               name: 'Soldier Field',               city: 'Chicago',          capacity: 63500 },
+  { slug: 'lumen_field',                 name: 'Lumen Field',                 city: 'Seattle',          capacity: 67000 },
+  { slug: 'mercedes_benz_stadium',       name: 'Mercedes-Benz Stadium',       city: 'Atlanta',          capacity: 71000 },
+  { slug: 'gillette_stadium',            name: 'Gillette Stadium',            city: 'Foxborough',       capacity: 68756 },
+  { slug: 'levi_s_stadium',              name: "Levi's Stadium",              city: 'Santa Clara',      capacity: 68500 },
+  { slug: 'allegiant_stadium',           name: 'Allegiant Stadium',           city: 'Las Vegas',        capacity: 65000 },
+  { slug: 'm_t_bank_stadium',            name: 'M&T Bank Stadium',            city: 'Baltimore',        capacity: 71008 },
+  { slug: 'yankee_stadium',              name: 'Yankee Stadium',              city: 'Bronx',            capacity: 58000 },
+  { slug: 'fenway_park',                 name: 'Fenway Park',                 city: 'Boston',           capacity: 37499 },
+  { slug: 'dodger_stadium',              name: 'Dodger Stadium',              city: 'Los Angeles',      capacity: 56000 },
+  { slug: 'wrigley_field',               name: 'Wrigley Field',               city: 'Chicago',          capacity: 41072 },
+  { slug: 'citi_field',                  name: 'Citi Field',                  city: 'New York',         capacity: 41922 },
+  { slug: 'oracle_park',                 name: 'Oracle Park',                 city: 'San Francisco',    capacity: 41915 },
+  { slug: 'oriole_park_at_camden_yards', name: 'Oriole Park at Camden Yards', city: 'Baltimore',        capacity: 48876 },
+  { slug: 'michigan_stadium',            name: 'Michigan Stadium',            city: 'Ann Arbor',        capacity: 107601 },
+  { slug: 'ohio_stadium',                name: 'Ohio Stadium',                city: 'Columbus',         capacity: 102780 },
+  { slug: 'beaver_stadium',              name: 'Beaver Stadium',              city: 'University Park',  capacity: 106572 },
+  { slug: 'kyle_field',                  name: 'Kyle Field',                  city: 'College Station',  capacity: 102733 },
+  { slug: 'rose_bowl',                   name: 'Rose Bowl',                   city: 'Pasadena',         capacity: 92542 },
+  { slug: 'neyland_stadium',             name: 'Neyland Stadium',             city: 'Knoxville',        capacity: 102455 },
+  { slug: 'tiger_stadium',               name: 'Tiger Stadium',               city: 'Baton Rouge',      capacity: 102321 },
+];
+
 function humanize(slug) {
   if (!slug) return '';
   return slug.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
@@ -73,10 +110,13 @@ export default function App() {
         const catalogList = Array.isArray(stad.stadiums) ? stad.stadiums : [];
         setCatalog(catalogList);
         const firstTrained = catalogList.find((s) => s.trained);
-        const first = firstTrained || catalogList[0];
+        const first = firstTrained || catalogList[0] || FALLBACK_STADIUMS[0];
         if (first) setStadium((cur) => cur || first.slug);
       } catch {
-        if (!cancelled) setStatus('offline');
+        if (!cancelled) {
+          setStatus('offline');
+          setStadium((cur) => cur || FALLBACK_STADIUMS[0].slug);
+        }
       }
     })();
     return () => { cancelled = true; };
@@ -210,8 +250,8 @@ function StatsBar({ status, stadiumsCount }) {
   return (
     <div style={S.statsBar}>
       <div style={S.statsLeft}>
-        <span style={S.brandMark}>◆</span>
-        <span style={S.brandText}>attend</span>
+        <SightlineMark />
+        <span style={S.brandText}>Sightline</span>
       </div>
       <div style={S.statsCenter}>
         <Stat label="Stadiums" value={stadiumsCount} />
@@ -240,6 +280,17 @@ function Stat({ label, value }) {
   );
 }
 
+function SightlineMark() {
+  return (
+    <svg width="22" height="22" viewBox="0 0 22 22" fill="none" aria-hidden="true" style={{ display: 'block' }}>
+      <circle cx="5" cy="11" r="2.2" fill={COLORS.accent} />
+      <path d="M6.6 9.6 L19 4.5"  stroke={COLORS.accent} strokeWidth="1.6" strokeLinecap="round" />
+      <path d="M6.6 12.4 L19 17.5" stroke={COLORS.accent} strokeWidth="1.6" strokeLinecap="round" />
+      <path d="M14 6.7 L14 15.3" stroke={COLORS.accent} strokeWidth="1.2" strokeLinecap="round" strokeOpacity="0.45" />
+    </svg>
+  );
+}
+
 function ControlsPanel({
   stadiums, catalog, selectedTrained,
   stadium, setStadium,
@@ -251,7 +302,12 @@ function ControlsPanel({
 }) {
   const trained = catalog.filter((c) => c.trained);
   const untrained = catalog.filter((c) => !c.trained);
-  const fallbackOptions = catalog.length === 0 ? stadiums.map((s) => ({ slug: s, name: humanize(s), trained: true })) : [];
+  const trainedSet = new Set(stadiums);
+  const fallbackOptions = catalog.length === 0
+    ? FALLBACK_STADIUMS.map((s) => ({ ...s, trained: trainedSet.has(s.slug) }))
+    : [];
+  const fallbackTrained   = fallbackOptions.filter((s) => s.trained);
+  const fallbackUntrained = fallbackOptions.filter((s) => !s.trained);
 
   const renderOption = (entry) => {
     const cityBit = entry.city ? ` — ${entry.city}` : '';
@@ -265,7 +321,7 @@ function ControlsPanel({
   return (
     <div style={S.controlsPanel}>
       <div>
-        <h1 style={S.title}>attend — Venue Intelligence Platform</h1>
+        <h1 style={S.title}>Sightline — Venue Intelligence Platform</h1>
         <p style={S.subtitle}>LoRA + DreamBooth Seat View Generator</p>
       </div>
 
@@ -277,10 +333,17 @@ function ControlsPanel({
           onChange={(e) => setStadium(e.target.value)}
           disabled={catalog.length === 0 && fallbackOptions.length === 0}
         >
-          {catalog.length === 0 && fallbackOptions.length === 0 ? (
-            <option value="">{status === 'offline' ? 'API offline' : 'No stadiums available'}</option>
-          ) : catalog.length === 0 ? (
-            fallbackOptions.map(renderOption)
+          {catalog.length === 0 ? (
+            <>
+              {fallbackTrained.length > 0 && (
+                <optgroup label={`Trained (${fallbackTrained.length})`}>
+                  {fallbackTrained.map(renderOption)}
+                </optgroup>
+              )}
+              <optgroup label={`Available — not yet trained (${fallbackUntrained.length})`}>
+                {fallbackUntrained.map(renderOption)}
+              </optgroup>
+            </>
           ) : (
             <>
               {trained.length > 0 && (
