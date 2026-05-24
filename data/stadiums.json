@@ -1,0 +1,2893 @@
+[
+  {
+    "slug": "indianapolis_motor_speedway",
+    "name": "Indianapolis Motor Speedway",
+    "city": "Speedway",
+    "capacity": 257325,
+    "wikidata_id": "Q172732"
+  },
+  {
+    "slug": "auto_club_speedway",
+    "name": "Auto Club Speedway",
+    "city": "California",
+    "capacity": 122000,
+    "wikidata_id": "Q784899"
+  },
+  {
+    "slug": "brookside_stadium",
+    "name": "Brookside Stadium",
+    "city": "Cleveland",
+    "capacity": 115000,
+    "wikidata_id": "Q4975120"
+  },
+  {
+    "slug": "michigan_stadium",
+    "name": "Michigan Stadium",
+    "city": "Ann Arbor",
+    "capacity": 107601,
+    "wikidata_id": "Q1640118"
+  },
+  {
+    "slug": "beaver_stadium",
+    "name": "Beaver Stadium",
+    "city": "College Township",
+    "capacity": 106572,
+    "wikidata_id": "Q692816"
+  },
+  {
+    "slug": "at_t_stadium",
+    "name": "AT&T Stadium",
+    "city": "Arlington",
+    "capacity": 105000,
+    "wikidata_id": "Q838284"
+  },
+  {
+    "slug": "ohio_stadium",
+    "name": "Ohio Stadium",
+    "city": "Columbus",
+    "capacity": 102780,
+    "wikidata_id": "Q774694"
+  },
+  {
+    "slug": "kyle_field",
+    "name": "Kyle Field",
+    "city": "Texas",
+    "capacity": 102733,
+    "wikidata_id": "Q945223"
+  },
+  {
+    "slug": "neyland_stadium",
+    "name": "Neyland Stadium",
+    "city": "Knoxville",
+    "capacity": 102455,
+    "wikidata_id": "Q1984022"
+  },
+  {
+    "slug": "tiger_stadium",
+    "name": "Tiger Stadium",
+    "city": "Baton Rouge",
+    "capacity": 102321,
+    "wikidata_id": "Q1594708"
+  },
+  {
+    "slug": "john_f_kennedy_stadium",
+    "name": "John F. Kennedy Stadium",
+    "city": "Philadelphia",
+    "capacity": 102000,
+    "wikidata_id": "Q2390739"
+  },
+  {
+    "slug": "bryant_denny_stadium",
+    "name": "Bryant\u2013Denny Stadium",
+    "city": "Tuscaloosa",
+    "capacity": 101821,
+    "wikidata_id": "Q995161"
+  },
+  {
+    "slug": "darrell_k_royal_texas_memorial_stadium",
+    "name": "Darrell K Royal\u2013Texas Memorial Stadium",
+    "city": "Austin",
+    "capacity": 95594,
+    "wikidata_id": "Q1166591"
+  },
+  {
+    "slug": "sanford_stadium",
+    "name": "Sanford Stadium",
+    "city": "Athens",
+    "capacity": 92746,
+    "wikidata_id": "Q2221660"
+  },
+  {
+    "slug": "rose_bowl",
+    "name": "Rose Bowl",
+    "city": "Pasadena",
+    "capacity": 92542,
+    "wikidata_id": "Q582280"
+  },
+  {
+    "slug": "cotton_bowl",
+    "name": "Cotton Bowl",
+    "city": "Fair Park",
+    "capacity": 92100,
+    "wikidata_id": "Q1136764"
+  },
+  {
+    "slug": "ben_hill_griffin_stadium",
+    "name": "Ben Hill Griffin Stadium",
+    "city": "Gainesville",
+    "capacity": 88548,
+    "wikidata_id": "Q816516"
+  },
+  {
+    "slug": "jordan_hare_stadium",
+    "name": "Jordan\u2013Hare Stadium",
+    "city": "Alabama",
+    "capacity": 87451,
+    "wikidata_id": "Q945548"
+  },
+  {
+    "slug": "memorial_stadium",
+    "name": "Memorial Stadium",
+    "city": "Nebraska",
+    "capacity": 87091,
+    "wikidata_id": "Q383557"
+  },
+  {
+    "slug": "centennial_olympic_stadium",
+    "name": "Centennial Olympic Stadium",
+    "city": "Atlanta",
+    "capacity": 85000,
+    "wikidata_id": "Q795345"
+  },
+  {
+    "slug": "metlife_stadium",
+    "name": "MetLife Stadium",
+    "city": "East Rutherford",
+    "capacity": 82500,
+    "wikidata_id": "Q10862290"
+  },
+  {
+    "slug": "gaylord_family_oklahoma_memorial_stadium",
+    "name": "Gaylord Family Oklahoma Memorial Stadium",
+    "city": "Oklahoma",
+    "capacity": 82112,
+    "wikidata_id": "Q1496586"
+  },
+  {
+    "slug": "pontiac_silverdome",
+    "name": "Pontiac Silverdome",
+    "city": "Pontiac",
+    "capacity": 82000,
+    "wikidata_id": "Q211662"
+  },
+  {
+    "slug": "memorial_stadium_clemson",
+    "name": "Memorial Stadium, Clemson",
+    "city": "Clemson",
+    "capacity": 81500,
+    "wikidata_id": "Q543579"
+  },
+  {
+    "slug": "tulane_stadium",
+    "name": "Tulane Stadium",
+    "city": "Louisiana",
+    "capacity": 80985,
+    "wikidata_id": "Q1536237"
+  },
+  {
+    "slug": "notre_dame_stadium",
+    "name": "Notre Dame Stadium",
+    "city": "Indiana",
+    "capacity": 80795,
+    "wikidata_id": "Q847043"
+  },
+  {
+    "slug": "lambeau_field",
+    "name": "Lambeau Field",
+    "city": "Green Bay",
+    "capacity": 80750,
+    "wikidata_id": "Q860790"
+  },
+  {
+    "slug": "camp_randall_stadium",
+    "name": "Camp Randall Stadium",
+    "city": "Madison",
+    "capacity": 80321,
+    "wikidata_id": "Q1029941"
+  },
+  {
+    "slug": "williams_brice_stadium",
+    "name": "Williams-Brice Stadium",
+    "city": "Columbia",
+    "capacity": 80250,
+    "wikidata_id": "Q940522"
+  },
+  {
+    "slug": "giants_stadium",
+    "name": "Giants Stadium",
+    "city": "East Rutherford",
+    "capacity": 80242,
+    "wikidata_id": "Q375365"
+  },
+  {
+    "slug": "gator_bowl_stadium",
+    "name": "Gator Bowl Stadium",
+    "city": "Duval County",
+    "capacity": 80126,
+    "wikidata_id": "Q5527471"
+  },
+  {
+    "slug": "doak_campbell_stadium",
+    "name": "Doak Campbell Stadium",
+    "city": "Tallahassee",
+    "capacity": 79560,
+    "wikidata_id": "Q1233077"
+  },
+  {
+    "slug": "cleveland_stadium",
+    "name": "Cleveland Stadium",
+    "city": "Cleveland",
+    "capacity": 78000,
+    "wikidata_id": "Q2113078"
+  },
+  {
+    "slug": "los_angeles_memorial_coliseum",
+    "name": "Los Angeles Memorial Coliseum",
+    "city": "California",
+    "capacity": 77500,
+    "wikidata_id": "Q849784"
+  },
+  {
+    "slug": "arrowhead_stadium",
+    "name": "Arrowhead Stadium",
+    "city": "Kansas City",
+    "capacity": 76416,
+    "wikidata_id": "Q544553"
+  },
+  {
+    "slug": "empower_field_at_mile_high",
+    "name": "Empower Field at Mile High",
+    "city": "Denver",
+    "capacity": 76125,
+    "wikidata_id": "Q1046135"
+  },
+  {
+    "slug": "caesars_superdome",
+    "name": "Caesars Superdome",
+    "city": "New Orleans",
+    "capacity": 75167,
+    "wikidata_id": "Q756452"
+  },
+  {
+    "slug": "spartan_stadium",
+    "name": "Spartan Stadium",
+    "city": "East Lansing",
+    "capacity": 75005,
+    "wikidata_id": "Q2164621"
+  },
+  {
+    "slug": "georgia_dome",
+    "name": "Georgia Dome",
+    "city": "Atlanta",
+    "capacity": 74228,
+    "wikidata_id": "Q1058931"
+  },
+  {
+    "slug": "bank_of_america_stadium",
+    "name": "Bank of America Stadium",
+    "city": "Charlotte",
+    "capacity": 73778,
+    "wikidata_id": "Q806673"
+  },
+  {
+    "slug": "donald_w_reynolds_razorback_stadium",
+    "name": "Donald W. Reynolds Razorback Stadium",
+    "city": "Arkansas",
+    "capacity": 72000,
+    "wikidata_id": "Q1124181"
+  },
+  {
+    "slug": "madison_square_garden_bowl",
+    "name": "Madison Square Garden Bowl",
+    "city": "Queens",
+    "capacity": 72000,
+    "wikidata_id": "Q6728094"
+  },
+  {
+    "slug": "farmers_field",
+    "name": "Farmers Field",
+    "city": "Los Angeles",
+    "capacity": 72000,
+    "wikidata_id": "Q15217385"
+  },
+  {
+    "slug": "highmark_stadium",
+    "name": "Highmark Stadium",
+    "city": "Orchard Park",
+    "capacity": 71608,
+    "wikidata_id": "Q1475645"
+  },
+  {
+    "slug": "legion_field",
+    "name": "Legion Field",
+    "city": "Birmingham",
+    "capacity": 71594,
+    "wikidata_id": "Q3175504"
+  },
+  {
+    "slug": "huntington_bank_field",
+    "name": "Huntington Bank Field",
+    "city": "Cleveland",
+    "capacity": 71516,
+    "wikidata_id": "Q1100756"
+  },
+  {
+    "slug": "nrg_stadium",
+    "name": "NRG Stadium",
+    "city": "Houston",
+    "capacity": 71054,
+    "wikidata_id": "Q1058864"
+  },
+  {
+    "slug": "m_t_bank_stadium",
+    "name": "M&T Bank Stadium",
+    "city": "Baltimore",
+    "capacity": 71008,
+    "wikidata_id": "Q1141336"
+  },
+  {
+    "slug": "mercedes_benz_stadium",
+    "name": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "capacity": 71000,
+    "wikidata_id": "Q7007552"
+  },
+  {
+    "slug": "san_diego_stadium",
+    "name": "San Diego Stadium",
+    "city": "San Diego",
+    "capacity": 70561,
+    "wikidata_id": "Q956072"
+  },
+  {
+    "slug": "sofi_stadium",
+    "name": "SoFi Stadium",
+    "city": "Inglewood",
+    "capacity": 70240,
+    "wikidata_id": "Q19520501"
+  },
+  {
+    "slug": "husky_stadium",
+    "name": "Husky Stadium",
+    "city": "Seattle",
+    "capacity": 70083,
+    "wikidata_id": "Q1136463"
+  },
+  {
+    "slug": "ford_field",
+    "name": "Ford Field",
+    "city": "Detroit",
+    "capacity": 70000,
+    "wikidata_id": "Q1142586"
+  },
+  {
+    "slug": "franklin_field",
+    "name": "Franklin Field",
+    "city": "Pennsylvania",
+    "capacity": 70000,
+    "wikidata_id": "Q5491503"
+  },
+  {
+    "slug": "u_s_bank_stadium",
+    "name": "U.S. Bank Stadium",
+    "city": "Minneapolis",
+    "capacity": 70000,
+    "wikidata_id": "Q7929512"
+  },
+  {
+    "slug": "new_commanders_stadium",
+    "name": "New Commanders Stadium",
+    "city": "Washington, D.C.",
+    "capacity": 70000,
+    "wikidata_id": "Q134250652"
+  },
+  {
+    "slug": "candlestick_park",
+    "name": "Candlestick Park",
+    "city": "San Francisco",
+    "capacity": 69732,
+    "wikidata_id": "Q1033076"
+  },
+  {
+    "slug": "pitt_stadium",
+    "name": "Pitt Stadium",
+    "city": "Pennsylvania",
+    "capacity": 69400,
+    "wikidata_id": "Q3389408"
+  },
+  {
+    "slug": "kinnick_stadium",
+    "name": "Kinnick Stadium",
+    "city": "Iowa City",
+    "capacity": 69250,
+    "wikidata_id": "Q3197181"
+  },
+  {
+    "slug": "gillette_stadium",
+    "name": "Gillette Stadium",
+    "city": "Foxborough",
+    "capacity": 68756,
+    "wikidata_id": "Q373355"
+  },
+  {
+    "slug": "lincoln_financial_field",
+    "name": "Lincoln Financial Field",
+    "city": "Philadelphia",
+    "capacity": 68532,
+    "wikidata_id": "Q1052370"
+  },
+  {
+    "slug": "levi_s_stadium",
+    "name": "Levi's Stadium",
+    "city": "California",
+    "capacity": 68500,
+    "wikidata_id": "Q7419343"
+  },
+  {
+    "slug": "nissan_stadium",
+    "name": "Nissan Stadium",
+    "city": "Nashville",
+    "capacity": 67700,
+    "wikidata_id": "Q1142992"
+  },
+  {
+    "slug": "everbank_field",
+    "name": "EverBank Field",
+    "city": "Jacksonville",
+    "capacity": 67246,
+    "wikidata_id": "Q635117"
+  },
+  {
+    "slug": "lumen_field",
+    "name": "Lumen Field",
+    "city": "Seattle",
+    "capacity": 67000,
+    "wikidata_id": "Q612736"
+  },
+  {
+    "slug": "the_dome_at_america_s_center",
+    "name": "The Dome at America's Center",
+    "city": "St. Louis",
+    "capacity": 66000,
+    "wikidata_id": "Q1292739"
+  },
+  {
+    "slug": "raymond_james_stadium",
+    "name": "Raymond James Stadium",
+    "city": "Tampa",
+    "capacity": 65890,
+    "wikidata_id": "Q1141343"
+  },
+  {
+    "slug": "texas_stadium",
+    "name": "Texas Stadium",
+    "city": "Texas",
+    "capacity": 65675,
+    "wikidata_id": "Q601596"
+  },
+  {
+    "slug": "lane_stadium",
+    "name": "Lane Stadium",
+    "city": "Blacksburg",
+    "capacity": 65632,
+    "wikidata_id": "Q3217144"
+  },
+  {
+    "slug": "paycor_stadium",
+    "name": "Paycor Stadium",
+    "city": "Cincinnati",
+    "capacity": 65515,
+    "wikidata_id": "Q1632294"
+  },
+  {
+    "slug": "acrisure_stadium",
+    "name": "Acrisure Stadium",
+    "city": "Pittsburgh",
+    "capacity": 65500,
+    "wikidata_id": "Q1067148"
+  },
+  {
+    "slug": "camping_world_stadium",
+    "name": "Camping World Stadium",
+    "city": "Orlando",
+    "capacity": 65438,
+    "wikidata_id": "Q199359"
+  },
+  {
+    "slug": "hard_rock_stadium",
+    "name": "Hard Rock Stadium",
+    "city": "Miami Gardens",
+    "capacity": 65326,
+    "wikidata_id": "Q864339"
+  },
+  {
+    "slug": "alamodome",
+    "name": "Alamodome",
+    "city": "San Antonio",
+    "capacity": 65000,
+    "wikidata_id": "Q1618347"
+  },
+  {
+    "slug": "allegiant_stadium",
+    "name": "Allegiant Stadium",
+    "city": "Clark County",
+    "capacity": 65000,
+    "wikidata_id": "Q27768421"
+  },
+  {
+    "slug": "mountain_america_stadium",
+    "name": "Mountain America Stadium",
+    "city": "Tempe",
+    "capacity": 64248,
+    "wikidata_id": "Q1849318"
+  },
+  {
+    "slug": "hubert_h_humphrey_metrodome",
+    "name": "Hubert H. Humphrey Metrodome",
+    "city": "Minneapolis",
+    "capacity": 64121,
+    "wikidata_id": "Q1072186"
+  },
+  {
+    "slug": "vaught_hemingway_stadium",
+    "name": "Vaught\u2013Hemingway Stadium",
+    "city": "Lafayette County",
+    "capacity": 64038,
+    "wikidata_id": "Q3555083"
+  },
+  {
+    "slug": "northwest_stadium",
+    "name": "Northwest Stadium",
+    "city": "Prince George's County",
+    "capacity": 64000,
+    "wikidata_id": "Q583085"
+  },
+  {
+    "slug": "soldier_field",
+    "name": "Soldier Field",
+    "city": "Chicago",
+    "capacity": 63500,
+    "wikidata_id": "Q1132413"
+  },
+  {
+    "slug": "lavell_edwards_stadium",
+    "name": "LaVell Edwards Stadium",
+    "city": "Provo",
+    "capacity": 63470,
+    "wikidata_id": "Q907890"
+  },
+  {
+    "slug": "state_farm_stadium",
+    "name": "State Farm Stadium",
+    "city": "Glendale",
+    "capacity": 63400,
+    "wikidata_id": "Q756433"
+  },
+  {
+    "slug": "oakland_coliseum",
+    "name": "Oakland Coliseum",
+    "city": "Oakland",
+    "capacity": 63122,
+    "wikidata_id": "Q1147732"
+  },
+  {
+    "slug": "ross_ade_stadium",
+    "name": "Ross\u2013Ade Stadium",
+    "city": "Indiana",
+    "capacity": 62500,
+    "wikidata_id": "Q3442733"
+  },
+  {
+    "slug": "california_memorial_stadium",
+    "name": "California Memorial Stadium",
+    "city": "California",
+    "capacity": 62467,
+    "wikidata_id": "Q1026837"
+  },
+  {
+    "slug": "astrodome",
+    "name": "Astrodome",
+    "city": "Houston",
+    "capacity": 62439,
+    "wikidata_id": "Q1025406"
+  },
+  {
+    "slug": "lucas_oil_stadium",
+    "name": "Lucas Oil Stadium",
+    "city": "Indianapolis",
+    "capacity": 62421,
+    "wikidata_id": "Q867160"
+  },
+  {
+    "slug": "veterans_stadium",
+    "name": "Veterans Stadium",
+    "city": "Philadelphia",
+    "capacity": 62306,
+    "wikidata_id": "Q1545870"
+  },
+  {
+    "slug": "faurot_field",
+    "name": "Faurot Field",
+    "city": "Columbia",
+    "capacity": 61620,
+    "wikidata_id": "Q1320105"
+  },
+  {
+    "slug": "scott_stadium",
+    "name": "Scott Stadium",
+    "city": "Albemarle County",
+    "capacity": 61500,
+    "wikidata_id": "Q1133538"
+  },
+  {
+    "slug": "yale_bowl",
+    "name": "Yale Bowl",
+    "city": "New Haven",
+    "capacity": 61446,
+    "wikidata_id": "Q1535796"
+  },
+  {
+    "slug": "davis_wade_stadium",
+    "name": "Davis Wade Stadium",
+    "city": "Oktibbeha County",
+    "capacity": 61337,
+    "wikidata_id": "Q949608"
+  },
+  {
+    "slug": "kroger_field",
+    "name": "Kroger Field",
+    "city": "Lexington",
+    "capacity": 61000,
+    "wikidata_id": "Q517268"
+  },
+  {
+    "slug": "mississippi_veterans_memorial_stadium",
+    "name": "Mississippi Veterans Memorial Stadium",
+    "city": "Mississippi",
+    "capacity": 60492,
+    "wikidata_id": "Q606901"
+  },
+  {
+    "slug": "jones_at_t_stadium",
+    "name": "Jones AT&T Stadium",
+    "city": "Lubbock",
+    "capacity": 60454,
+    "wikidata_id": "Q3183551"
+  },
+  {
+    "slug": "foxboro_stadium",
+    "name": "Foxboro Stadium",
+    "city": "Foxborough",
+    "capacity": 60292,
+    "wikidata_id": "Q339850"
+  },
+  {
+    "slug": "boone_pickens_stadium",
+    "name": "Boone Pickens Stadium",
+    "city": "Stillwater",
+    "capacity": 60218,
+    "wikidata_id": "Q2910505"
+  },
+  {
+    "slug": "rca_dome",
+    "name": "RCA Dome",
+    "city": "Indianapolis",
+    "capacity": 60127,
+    "wikidata_id": "Q2092780"
+  },
+  {
+    "slug": "mountaineer_field_at_milan_puskar_stadium",
+    "name": "Mountaineer Field at Milan Puskar Stadium",
+    "city": "Morgantown",
+    "capacity": 60000,
+    "wikidata_id": "Q1179474"
+  },
+  {
+    "slug": "kezar_stadium",
+    "name": "Kezar Stadium",
+    "city": "San Francisco",
+    "capacity": 59942,
+    "wikidata_id": "Q4263361"
+  },
+  {
+    "slug": "kingdome",
+    "name": "Kingdome",
+    "city": "Seattle",
+    "capacity": 59166,
+    "wikidata_id": "Q990430"
+  },
+  {
+    "slug": "three_rivers_stadium",
+    "name": "Three Rivers Stadium",
+    "city": "Pittsburgh",
+    "capacity": 59000,
+    "wikidata_id": "Q1189339"
+  },
+  {
+    "slug": "yankee_stadium",
+    "name": "Yankee Stadium",
+    "city": "The Bronx",
+    "capacity": 58000,
+    "wikidata_id": "Q675214"
+  },
+  {
+    "slug": "stagg_field",
+    "name": "Stagg Field",
+    "city": "Illinois",
+    "capacity": 58000,
+    "wikidata_id": "Q133827423"
+  },
+  {
+    "slug": "carter_finley_stadium",
+    "name": "Carter\u2013Finley Stadium",
+    "city": "Raleigh",
+    "capacity": 57583,
+    "wikidata_id": "Q945172"
+  },
+  {
+    "slug": "shea_stadium",
+    "name": "Shea Stadium",
+    "city": "Flushing",
+    "capacity": 57333,
+    "wikidata_id": "Q1056326"
+  },
+  {
+    "slug": "polo_fields",
+    "name": "Polo Fields",
+    "city": "San Francisco",
+    "capacity": 57000,
+    "wikidata_id": "Q14683691"
+  },
+  {
+    "slug": "arizona_stadium",
+    "name": "Arizona Stadium",
+    "city": "Tucson",
+    "capacity": 56037,
+    "wikidata_id": "Q947065"
+  },
+  {
+    "slug": "dodger_stadium",
+    "name": "Dodger Stadium",
+    "city": "Los Angeles",
+    "capacity": 56000,
+    "wikidata_id": "Q247420"
+  },
+  {
+    "slug": "gies_memorial_stadium",
+    "name": "Gies Memorial Stadium",
+    "city": "Illinois",
+    "capacity": 55524,
+    "wikidata_id": "Q3305514"
+  },
+  {
+    "slug": "bobby_dodd_stadium",
+    "name": "Bobby Dodd Stadium",
+    "city": "Atlanta",
+    "capacity": 55000,
+    "wikidata_id": "Q2907951"
+  },
+  {
+    "slug": "l_n_federal_credit_union_stadium",
+    "name": "L&N Federal Credit Union Stadium",
+    "city": "Louisville",
+    "capacity": 55000,
+    "wikidata_id": "Q3362725"
+  },
+  {
+    "slug": "war_memorial_stadium",
+    "name": "War Memorial Stadium",
+    "city": "Arkansas",
+    "capacity": 53955,
+    "wikidata_id": "Q3566221"
+  },
+  {
+    "slug": "autzen_stadium",
+    "name": "Autzen Stadium",
+    "city": "Eugene",
+    "capacity": 53800,
+    "wikidata_id": "Q2873102"
+  },
+  {
+    "slug": "atlanta_fulton_county_stadium",
+    "name": "Atlanta-Fulton County Stadium",
+    "city": "Atlanta",
+    "capacity": 52007,
+    "wikidata_id": "Q641243"
+  },
+  {
+    "slug": "proposed_domed_brooklyn_dodgers_stadium",
+    "name": "Proposed domed Brooklyn Dodgers stadium",
+    "city": "Brooklyn",
+    "capacity": 52000,
+    "wikidata_id": "Q4974814"
+  },
+  {
+    "slug": "secu_stadium",
+    "name": "SECU Stadium",
+    "city": "College Park",
+    "capacity": 51802,
+    "wikidata_id": "Q2929171"
+  },
+  {
+    "slug": "mile_high_stadium",
+    "name": "Mile High Stadium",
+    "city": "Denver",
+    "capacity": 51706,
+    "wikidata_id": "Q1934586"
+  },
+  {
+    "slug": "sun_bowl_stadium",
+    "name": "Sun Bowl Stadium",
+    "city": "El Paso",
+    "capacity": 51500,
+    "wikidata_id": "Q3503735"
+  },
+  {
+    "slug": "huntington_bank_stadium",
+    "name": "Huntington Bank Stadium",
+    "city": "Minneapolis",
+    "capacity": 50805,
+    "wikidata_id": "Q3512039"
+  },
+  {
+    "slug": "coors_field",
+    "name": "Coors Field",
+    "city": "Denver",
+    "capacity": 50480,
+    "wikidata_id": "Q1129916"
+  },
+  {
+    "slug": "stanford_stadium",
+    "name": "Stanford Stadium",
+    "city": "Stanford",
+    "capacity": 50424,
+    "wikidata_id": "Q692470"
+  },
+  {
+    "slug": "simmons_bank_liberty_stadium",
+    "name": "Simmons Bank Liberty Stadium",
+    "city": "Tennessee",
+    "capacity": 50160,
+    "wikidata_id": "Q3237803"
+  },
+  {
+    "slug": "david_booth_kansas_memorial_stadium",
+    "name": "David Booth Kansas Memorial Stadium",
+    "city": "Kansas",
+    "capacity": 50071,
+    "wikidata_id": "Q3305513"
+  },
+  {
+    "slug": "aloha_stadium",
+    "name": "Aloha Stadium",
+    "city": "Halawa",
+    "capacity": 50000,
+    "wikidata_id": "Q1697292"
+  },
+  {
+    "slug": "bill_snyder_family_football_stadium",
+    "name": "Bill Snyder Family Football Stadium",
+    "city": "Manhattan",
+    "capacity": 50000,
+    "wikidata_id": "Q2903355"
+  },
+  {
+    "slug": "dowdy_ficklen_stadium",
+    "name": "Dowdy\u2013Ficklen Stadium",
+    "city": "North Carolina",
+    "capacity": 50000,
+    "wikidata_id": "Q3038295"
+  },
+  {
+    "slug": "floyd_casey_stadium",
+    "name": "Floyd Casey Stadium",
+    "city": "Texas",
+    "capacity": 50000,
+    "wikidata_id": "Q3074454"
+  },
+  {
+    "slug": "busch_memorial_stadium",
+    "name": "Busch Memorial Stadium",
+    "city": "St. Louis",
+    "capacity": 49676,
+    "wikidata_id": "Q1017286"
+  },
+  {
+    "slug": "independence_stadium",
+    "name": "Independence Stadium",
+    "city": "Shreveport",
+    "capacity": 49427,
+    "wikidata_id": "Q3150014"
+  },
+  {
+    "slug": "jma_wireless_dome",
+    "name": "JMA Wireless Dome",
+    "city": "Syracuse",
+    "capacity": 49262,
+    "wikidata_id": "Q2739617"
+  },
+  {
+    "slug": "oriole_park_at_camden_yards",
+    "name": "Oriole Park at Camden Yards",
+    "city": "Baltimore",
+    "capacity": 48876,
+    "wikidata_id": "Q1141174"
+  },
+  {
+    "slug": "chase_field",
+    "name": "Chase Field",
+    "city": "Phoenix",
+    "capacity": 48519,
+    "wikidata_id": "Q1068011"
+  },
+  {
+    "slug": "choctaw_stadium",
+    "name": "Choctaw Stadium",
+    "city": "Arlington",
+    "capacity": 48114,
+    "wikidata_id": "Q1634492"
+  },
+  {
+    "slug": "cardinal_stadium",
+    "name": "Cardinal Stadium",
+    "city": "Louisville",
+    "capacity": 47925,
+    "wikidata_id": "Q5038613"
+  },
+  {
+    "slug": "t_mobile_park",
+    "name": "T-Mobile Park",
+    "city": "Seattle",
+    "capacity": 47476,
+    "wikidata_id": "Q1193117"
+  },
+  {
+    "slug": "ryan_field",
+    "name": "Ryan Field",
+    "city": "Evanston",
+    "capacity": 47130,
+    "wikidata_id": "Q3453774"
+  },
+  {
+    "slug": "protective_stadium",
+    "name": "Protective Stadium",
+    "city": "Birmingham",
+    "capacity": 47100,
+    "wikidata_id": "Q83506289"
+  },
+  {
+    "slug": "amon_g_carter_stadium",
+    "name": "Amon G. Carter Stadium",
+    "city": "Fort Worth",
+    "capacity": 47000,
+    "wikidata_id": "Q473943"
+  },
+  {
+    "slug": "rice_stadium",
+    "name": "Rice Stadium",
+    "city": "Houston",
+    "capacity": 47000,
+    "wikidata_id": "Q1857419"
+  },
+  {
+    "slug": "tampa_stadium",
+    "name": "Tampa Stadium",
+    "city": "Tampa",
+    "capacity": 46481,
+    "wikidata_id": "Q2095984"
+  },
+  {
+    "slug": "delta_dome",
+    "name": "Delta Dome",
+    "city": "Delta Park",
+    "capacity": 46000,
+    "wikidata_id": "Q16632774"
+  },
+  {
+    "slug": "reser_stadium",
+    "name": "Reser Stadium",
+    "city": "Corvallis",
+    "capacity": 45674,
+    "wikidata_id": "Q782386"
+  },
+  {
+    "slug": "tropicana_field",
+    "name": "Tropicana Field",
+    "city": "St. Petersburg",
+    "capacity": 45369,
+    "wikidata_id": "Q1810119"
+  },
+  {
+    "slug": "acrisure_bounce_house",
+    "name": "Acrisure Bounce House",
+    "city": "Orange County",
+    "capacity": 45323,
+    "wikidata_id": "Q2925356"
+  },
+  {
+    "slug": "rice_eccles_stadium",
+    "name": "Rice\u2013Eccles Stadium",
+    "city": "Salt Lake City",
+    "capacity": 45017,
+    "wikidata_id": "Q922761"
+  },
+  {
+    "slug": "mclane_stadium",
+    "name": "McLane Stadium",
+    "city": "Waco",
+    "capacity": 45000,
+    "wikidata_id": "Q4874608"
+  },
+  {
+    "slug": "alumni_stadium",
+    "name": "Alumni Stadium",
+    "city": "Massachusetts",
+    "capacity": 44500,
+    "wikidata_id": "Q598070"
+  },
+  {
+    "slug": "new_fenway_park",
+    "name": "New Fenway Park",
+    "city": "Boston",
+    "capacity": 44130,
+    "wikidata_id": "Q14715765"
+  },
+  {
+    "slug": "busch_stadium",
+    "name": "Busch Stadium",
+    "city": "St. Louis",
+    "capacity": 43975,
+    "wikidata_id": "Q253546"
+  },
+  {
+    "slug": "citizens_bank_park",
+    "name": "Citizens Bank Park",
+    "city": "Philadelphia",
+    "capacity": 43651,
+    "wikidata_id": "Q912770"
+  },
+  {
+    "slug": "robert_f_kennedy_memorial_stadium",
+    "name": "Robert F. Kennedy Memorial Stadium",
+    "city": "Washington, D.C.",
+    "capacity": 43500,
+    "wikidata_id": "Q153312"
+  },
+  {
+    "slug": "angel_stadium_of_anaheim",
+    "name": "Angel Stadium of Anaheim",
+    "city": "Anaheim",
+    "capacity": 43250,
+    "wikidata_id": "Q531897"
+  },
+  {
+    "slug": "progressive_field",
+    "name": "Progressive Field",
+    "city": "Cleveland",
+    "capacity": 42865,
+    "wikidata_id": "Q1154053"
+  },
+  {
+    "slug": "jack_trice_stadium",
+    "name": "Jack Trice Stadium",
+    "city": "Ames",
+    "capacity": 42500,
+    "wikidata_id": "Q3157332"
+  },
+  {
+    "slug": "great_american_ball_park",
+    "name": "Great American Ball Park",
+    "city": "Cincinnati",
+    "capacity": 42319,
+    "wikidata_id": "Q979975"
+  },
+  {
+    "slug": "petco_park",
+    "name": "Petco Park",
+    "city": "Downtown San Diego",
+    "capacity": 42302,
+    "wikidata_id": "Q1194586"
+  },
+  {
+    "slug": "daikin_park",
+    "name": "Daikin Park",
+    "city": "Houston",
+    "capacity": 42060,
+    "wikidata_id": "Q1193671"
+  },
+  {
+    "slug": "palmer_stadium",
+    "name": "Palmer Stadium",
+    "city": "Princeton",
+    "capacity": 42000,
+    "wikidata_id": "Q788510"
+  },
+  {
+    "slug": "citi_field",
+    "name": "Citi Field",
+    "city": "Flushing",
+    "capacity": 41922,
+    "wikidata_id": "Q1072882"
+  },
+  {
+    "slug": "oracle_park",
+    "name": "Oracle Park",
+    "city": "San Francisco",
+    "capacity": 41915,
+    "wikidata_id": "Q298585"
+  },
+  {
+    "slug": "nationals_park",
+    "name": "Nationals Park",
+    "city": "Washington, D.C.",
+    "capacity": 41888,
+    "wikidata_id": "Q517545"
+  },
+  {
+    "slug": "shi_stadium",
+    "name": "SHI Stadium",
+    "city": "Piscataway",
+    "capacity": 41500,
+    "wikidata_id": "Q3453599"
+  },
+  {
+    "slug": "wrigley_field",
+    "name": "Wrigley Field",
+    "city": "Chicago",
+    "capacity": 41072,
+    "wikidata_id": "Q1052807"
+  },
+  {
+    "slug": "valley_children_s_stadium",
+    "name": "Valley Children's Stadium",
+    "city": "Fresno",
+    "capacity": 41031,
+    "wikidata_id": "Q583581"
+  },
+  {
+    "slug": "canvas_stadium",
+    "name": "Canvas Stadium",
+    "city": "Fort Collins",
+    "capacity": 41000,
+    "wikidata_id": "Q23995882"
+  },
+  {
+    "slug": "falcon_stadium",
+    "name": "Falcon Stadium",
+    "city": "El Paso County",
+    "capacity": 40828,
+    "wikidata_id": "Q907843"
+  },
+  {
+    "slug": "rate_field",
+    "name": "Rate Field",
+    "city": "Chicago",
+    "capacity": 40615,
+    "wikidata_id": "Q633613"
+  },
+  {
+    "slug": "firstbank_stadium",
+    "name": "FirstBank Stadium",
+    "city": "Nashville",
+    "capacity": 40550,
+    "wikidata_id": "Q3554494"
+  },
+  {
+    "slug": "skelly_field_at_h_a_chapman_stadium",
+    "name": "Skelly Field at H. A. Chapman Stadium",
+    "city": "Oklahoma",
+    "capacity": 40385,
+    "wikidata_id": "Q3486226"
+  },
+  {
+    "slug": "globe_life_field",
+    "name": "Globe Life Field",
+    "city": "Arlington",
+    "capacity": 40300,
+    "wikidata_id": "Q24284037"
+  },
+  {
+    "slug": "comerica_park",
+    "name": "Comerica Park",
+    "city": "Michigan",
+    "capacity": 40120,
+    "wikidata_id": "Q868482"
+  },
+  {
+    "slug": "archbold_stadium",
+    "name": "Archbold Stadium",
+    "city": "Syracuse",
+    "capacity": 40001,
+    "wikidata_id": "Q4785707"
+  },
+  {
+    "slug": "nippert_stadium",
+    "name": "Nippert Stadium",
+    "city": "Cincinnati",
+    "capacity": 40000,
+    "wikidata_id": "Q3342107"
+  },
+  {
+    "slug": "tdecu_stadium",
+    "name": "TDECU Stadium",
+    "city": "Houston",
+    "capacity": 40000,
+    "wikidata_id": "Q14711138"
+  },
+  {
+    "slug": "braves_field",
+    "name": "Braves Field",
+    "city": "Massachusetts",
+    "capacity": 40000,
+    "wikidata_id": "Q11335096"
+  },
+  {
+    "slug": "howard_j_lamade_stadium",
+    "name": "Howard J. Lamade Stadium",
+    "city": "South Williamsport",
+    "capacity": 40000,
+    "wikidata_id": "Q5919963"
+  },
+  {
+    "slug": "pratt_whitney_stadium",
+    "name": "Pratt & Whitney Stadium",
+    "city": "East Hartford",
+    "capacity": 40000,
+    "wikidata_id": "Q3113144"
+  },
+  {
+    "slug": "target_field",
+    "name": "Target Field",
+    "city": "Minneapolis",
+    "capacity": 39504,
+    "wikidata_id": "Q1156635"
+  },
+  {
+    "slug": "university_stadium",
+    "name": "University Stadium",
+    "city": "Albuquerque",
+    "capacity": 39224,
+    "wikidata_id": "Q936242"
+  },
+  {
+    "slug": "joan_c_edwards_stadium",
+    "name": "Joan C. Edwards Stadium",
+    "city": "West Virginia",
+    "capacity": 38227,
+    "wikidata_id": "Q3179563"
+  },
+  {
+    "slug": "michie_stadium",
+    "name": "Michie Stadium",
+    "city": "New York",
+    "capacity": 38000,
+    "wikidata_id": "Q3311487"
+  },
+  {
+    "slug": "mountaineer_field",
+    "name": "Mountaineer Field",
+    "city": "Morgantown",
+    "capacity": 38000,
+    "wikidata_id": "Q6925635"
+  },
+  {
+    "slug": "kauffman_stadium",
+    "name": "Kauffman Stadium",
+    "city": "Kansas City",
+    "capacity": 37903,
+    "wikidata_id": "Q1737017"
+  },
+  {
+    "slug": "pnc_park",
+    "name": "PNC Park",
+    "city": "Pittsburgh",
+    "capacity": 37898,
+    "wikidata_id": "Q1151177"
+  },
+  {
+    "slug": "fenway_park",
+    "name": "Fenway Park",
+    "city": "Boston",
+    "capacity": 37499,
+    "wikidata_id": "Q49136"
+  },
+  {
+    "slug": "stoll_field_mclean_stadium",
+    "name": "Stoll Field/McLean Stadium",
+    "city": null,
+    "capacity": 37000,
+    "wikidata_id": "Q7618650"
+  },
+  {
+    "slug": "sam_boyd_stadium",
+    "name": "Sam Boyd Stadium",
+    "city": "Las Vegas",
+    "capacity": 36800,
+    "wikidata_id": "Q3470457"
+  },
+  {
+    "slug": "loandepot_park",
+    "name": "LoanDepot Park",
+    "city": "Miami",
+    "capacity": 36742,
+    "wikidata_id": "Q1368138"
+  },
+  {
+    "slug": "albertsons_stadium",
+    "name": "Albertsons Stadium",
+    "city": "Boise",
+    "capacity": 36387,
+    "wikidata_id": "Q2926064"
+  },
+  {
+    "slug": "milwaukee_county_stadium",
+    "name": "Milwaukee County Stadium",
+    "city": "Milwaukee",
+    "capacity": 36011,
+    "wikidata_id": "Q3314569"
+  },
+  {
+    "slug": "m_m_roberts_stadium",
+    "name": "M. M. Roberts Stadium",
+    "city": "Mississippi",
+    "capacity": 36000,
+    "wikidata_id": "Q3272445"
+  },
+  {
+    "slug": "rubber_bowl",
+    "name": "Rubber Bowl",
+    "city": "Ohio",
+    "capacity": 35202,
+    "wikidata_id": "Q7375798"
+  },
+  {
+    "slug": "clyde_williams_field",
+    "name": "Clyde Williams Field",
+    "city": "Iowa",
+    "capacity": 35000,
+    "wikidata_id": "Q5137053"
+  },
+  {
+    "slug": "navy_marine_corps_memorial_stadium",
+    "name": "Navy\u2013Marine Corps Memorial Stadium",
+    "city": "Annapolis",
+    "capacity": 34000,
+    "wikidata_id": "Q3337331"
+  },
+  {
+    "slug": "oakland_ballpark",
+    "name": "Oakland Ballpark",
+    "city": "San Jose",
+    "capacity": 34000,
+    "wikidata_id": "Q39728961"
+  },
+  {
+    "slug": "polo_grounds",
+    "name": "Polo Grounds",
+    "city": "Manhattan",
+    "capacity": 34000,
+    "wikidata_id": "Q1276360"
+  },
+  {
+    "slug": "wallace_wade_stadium",
+    "name": "Wallace Wade Stadium",
+    "city": "Durham",
+    "capacity": 33941,
+    "wikidata_id": "Q3565475"
+  },
+  {
+    "slug": "ladd_peebles_stadium",
+    "name": "Ladd\u2013Peebles Stadium",
+    "city": "Mobile",
+    "capacity": 33471,
+    "wikidata_id": "Q3215922"
+  },
+  {
+    "slug": "colt_stadium",
+    "name": "Colt Stadium",
+    "city": "Houston",
+    "capacity": 33000,
+    "wikidata_id": "Q5149429"
+  },
+  {
+    "slug": "yale_field",
+    "name": "Yale Field",
+    "city": "New Haven",
+    "capacity": 33000,
+    "wikidata_id": "Q8047379"
+  },
+  {
+    "slug": "kelly_shorts_stadium",
+    "name": "Kelly/Shorts Stadium",
+    "city": "Mount Pleasant",
+    "capacity": 32885,
+    "wikidata_id": "Q6385914"
+  },
+  {
+    "slug": "martin_stadium",
+    "name": "Martin Stadium",
+    "city": "Pullman",
+    "capacity": 32740,
+    "wikidata_id": "Q2409690"
+  },
+  {
+    "slug": "sonny_lubick_field_at_hughes_stadium",
+    "name": "Sonny Lubick Field at Hughes Stadium",
+    "city": "Fort Collins",
+    "capacity": 32500,
+    "wikidata_id": "Q3490647"
+  },
+  {
+    "slug": "robert_rice_stadium",
+    "name": "Robert Rice Stadium",
+    "city": "Salt Lake City",
+    "capacity": 32500,
+    "wikidata_id": "Q7323048"
+  },
+  {
+    "slug": "robertson_stadium",
+    "name": "Robertson Stadium",
+    "city": "Houston",
+    "capacity": 32000,
+    "wikidata_id": "Q1632955"
+  },
+  {
+    "slug": "robert_k_kraft_field_at_lawrence_a_wien_stadium",
+    "name": "Robert K. Kraft Field at Lawrence A. Wien Stadium",
+    "city": "Manhattan",
+    "capacity": 32000,
+    "wikidata_id": "Q7346228"
+  },
+  {
+    "slug": "gerald_j_ford_stadium",
+    "name": "Gerald J. Ford Stadium",
+    "city": "Dallas",
+    "capacity": 32000,
+    "wikidata_id": "Q390127"
+  },
+  {
+    "slug": "allegacy_federal_credit_union_stadium",
+    "name": "Allegacy Federal Credit Union Stadium",
+    "city": "Winston-Salem",
+    "capacity": 31500,
+    "wikidata_id": "Q1028275"
+  },
+  {
+    "slug": "cessna_stadium",
+    "name": "Cessna Stadium",
+    "city": "Wichita",
+    "capacity": 31500,
+    "wikidata_id": "Q5065580"
+  },
+  {
+    "slug": "rutgers_stadium",
+    "name": "Rutgers Stadium",
+    "city": "Piscataway",
+    "capacity": 31219,
+    "wikidata_id": "Q7382812"
+  },
+  {
+    "slug": "cajun_field_at_our_lady_of_lourdes_stadium",
+    "name": "Cajun Field at Our Lady of Lourdes Stadium",
+    "city": "Louisiana",
+    "capacity": 31000,
+    "wikidata_id": "Q5018009"
+  },
+  {
+    "slug": "university_at_buffalo_stadium",
+    "name": "University at Buffalo Stadium",
+    "city": "New York",
+    "capacity": 31000,
+    "wikidata_id": "Q7894992"
+  },
+  {
+    "slug": "datcu_stadium",
+    "name": "DATCU Stadium",
+    "city": "Denton",
+    "capacity": 30850,
+    "wikidata_id": "Q11597"
+  },
+  {
+    "slug": "johnny_red_floyd_stadium",
+    "name": "Johnny \"Red\" Floyd Stadium",
+    "city": "Murfreesboro",
+    "capacity": 30788,
+    "wikidata_id": "Q14709982"
+  },
+  {
+    "slug": "dignity_health_sports_park",
+    "name": "Dignity Health Sports Park",
+    "city": "Carson",
+    "capacity": 30510,
+    "wikidata_id": "Q200684"
+  },
+  {
+    "slug": "fouts_field",
+    "name": "Fouts Field",
+    "city": "Denton",
+    "capacity": 30500,
+    "wikidata_id": "Q5476314"
+  },
+  {
+    "slug": "cefcu_stadium",
+    "name": "CEFCU Stadium",
+    "city": "San Jose",
+    "capacity": 30456,
+    "wikidata_id": "Q2165358"
+  },
+  {
+    "slug": "jps_field_at_malone_stadium",
+    "name": "JPS Field at Malone Stadium",
+    "city": "Louisiana",
+    "capacity": 30427,
+    "wikidata_id": "Q6744512"
+  },
+  {
+    "slug": "centennial_bank_stadium",
+    "name": "Centennial Bank Stadium",
+    "city": "Jonesboro",
+    "capacity": 30382,
+    "wikidata_id": "Q6541587"
+  },
+  {
+    "slug": "aggie_memorial_stadium",
+    "name": "Aggie Memorial Stadium",
+    "city": "Las Cruces",
+    "capacity": 30343,
+    "wikidata_id": "Q4692211"
+  },
+  {
+    "slug": "harvard_stadium",
+    "name": "Harvard Stadium",
+    "city": "Boston",
+    "capacity": 30323,
+    "wikidata_id": "Q1587879"
+  },
+  {
+    "slug": "waldo_stadium",
+    "name": "Waldo Stadium",
+    "city": "Michigan",
+    "capacity": 30200,
+    "wikidata_id": "Q7961584"
+  },
+  {
+    "slug": "rynearson_stadium",
+    "name": "Rynearson Stadium",
+    "city": "Michigan",
+    "capacity": 30200,
+    "wikidata_id": "Q14716273"
+  },
+  {
+    "slug": "lake_placid_equestrian_stadium",
+    "name": "Lake Placid Equestrian Stadium",
+    "city": "Lake Placid",
+    "capacity": 30000,
+    "wikidata_id": "Q3825213"
+  },
+  {
+    "slug": "kidd_brewer_stadium",
+    "name": "Kidd Brewer Stadium",
+    "city": "Boone",
+    "capacity": 30000,
+    "wikidata_id": "Q6404623"
+  },
+  {
+    "slug": "du_stadium",
+    "name": "DU Stadium",
+    "city": "Denver",
+    "capacity": 30000,
+    "wikidata_id": "Q5206333"
+  },
+  {
+    "slug": "mackay_stadium",
+    "name": "Mackay Stadium",
+    "city": "Nevada",
+    "capacity": 30000,
+    "wikidata_id": "Q6588235"
+  },
+  {
+    "slug": "infocision_stadium_summa_field",
+    "name": "InfoCision Stadium \u2013 Summa Field",
+    "city": "Ohio",
+    "capacity": 30000,
+    "wikidata_id": "Q6030359"
+  },
+  {
+    "slug": "iowa_field",
+    "name": "Iowa Field",
+    "city": "Iowa City",
+    "capacity": 30000,
+    "wikidata_id": "Q6064388"
+  },
+  {
+    "slug": "william_dick_price_stadium",
+    "name": "William \"Dick\" Price Stadium",
+    "city": "Q49231",
+    "capacity": 30000,
+    "wikidata_id": "Q8003823"
+  },
+  {
+    "slug": "yulman_stadium",
+    "name": "Yulman Stadium",
+    "city": "New Orleans",
+    "capacity": 30000,
+    "wikidata_id": "Q8060993"
+  },
+  {
+    "slug": "bobcat_stadium",
+    "name": "Bobcat Stadium",
+    "city": "Texas",
+    "capacity": 30000,
+    "wikidata_id": "Q14710340"
+  },
+  {
+    "slug": "new_beaver_field",
+    "name": "New Beaver Field",
+    "city": "Pennsylvania",
+    "capacity": 30000,
+    "wikidata_id": "Q15261954"
+  },
+  {
+    "slug": "brookland_stadium",
+    "name": "Brookland Stadium",
+    "city": "Washington, D.C.",
+    "capacity": 30000,
+    "wikidata_id": "Q19874115"
+  },
+  {
+    "slug": "veterans_memorial_stadium",
+    "name": "Veterans Memorial Stadium",
+    "city": "Alabama",
+    "capacity": 30000,
+    "wikidata_id": "Q7923659"
+  },
+  {
+    "slug": "fau_stadium",
+    "name": "FAU Stadium",
+    "city": "Boca Raton",
+    "capacity": 29419,
+    "wikidata_id": "Q5513195"
+  },
+  {
+    "slug": "joe_albi_stadium",
+    "name": "Joe Albi Stadium",
+    "city": "Washington",
+    "capacity": 28646,
+    "wikidata_id": "Q6208317"
+  },
+  {
+    "slug": "joe_aillet_stadium",
+    "name": "Joe Aillet Stadium",
+    "city": "Louisiana",
+    "capacity": 28562,
+    "wikidata_id": "Q6208302"
+  },
+  {
+    "slug": "ace_w_mumford_stadium",
+    "name": "Ace W. Mumford Stadium",
+    "city": "Baton Rouge",
+    "capacity": 28500,
+    "wikidata_id": "Q4673017"
+  },
+  {
+    "slug": "stagg_memorial_stadium",
+    "name": "Stagg Memorial Stadium",
+    "city": "Stockton",
+    "capacity": 28000,
+    "wikidata_id": "Q6588440"
+  },
+  {
+    "slug": "comiskey_park",
+    "name": "Comiskey Park",
+    "city": "Chicago",
+    "capacity": 28000,
+    "wikidata_id": "Q1114772"
+  },
+  {
+    "slug": "princeton_university_stadium",
+    "name": "Princeton University Stadium",
+    "city": "Princeton",
+    "capacity": 27773,
+    "wikidata_id": "Q6587721"
+  },
+  {
+    "slug": "griffith_stadium",
+    "name": "Griffith Stadium",
+    "city": "Washington, D.C.",
+    "capacity": 27000,
+    "wikidata_id": "Q5608924"
+  },
+  {
+    "slug": "fargodome",
+    "name": "Fargodome",
+    "city": "Fargo",
+    "capacity": 26700,
+    "wikidata_id": "Q5435127"
+  },
+  {
+    "slug": "nu_stadium",
+    "name": "Nu Stadium",
+    "city": "Miami",
+    "capacity": 26700,
+    "wikidata_id": "Q17018920"
+  },
+  {
+    "slug": "hornet_stadium",
+    "name": "Hornet Stadium",
+    "city": "Montgomery",
+    "capacity": 26500,
+    "wikidata_id": "Q5904353"
+  },
+  {
+    "slug": "tad_gormley_stadium",
+    "name": "Tad Gormley Stadium",
+    "city": "Louisiana",
+    "capacity": 26500,
+    "wikidata_id": "Q7674228"
+  },
+  {
+    "slug": "folsom_field",
+    "name": "Folsom Field",
+    "city": "Boulder",
+    "capacity": 26000,
+    "wikidata_id": "Q3075131"
+  },
+  {
+    "slug": "tql_stadium",
+    "name": "TQL Stadium",
+    "city": "Cincinnati",
+    "capacity": 26000,
+    "wikidata_id": "Q54465634"
+  },
+  {
+    "slug": "schoellkopf_field",
+    "name": "Schoellkopf Field",
+    "city": "New York",
+    "capacity": 25597,
+    "wikidata_id": "Q3475468"
+  },
+  {
+    "slug": "maverik_stadium_utah_state",
+    "name": "Maverik Stadium, Utah State",
+    "city": "Logan",
+    "capacity": 25513,
+    "wikidata_id": "Q7363266"
+  },
+  {
+    "slug": "bragg_memorial_stadium",
+    "name": "Bragg Memorial Stadium",
+    "city": "Tallahassee",
+    "capacity": 25500,
+    "wikidata_id": "Q4955406"
+  },
+  {
+    "slug": "inter_co_stadium",
+    "name": "Inter&Co Stadium",
+    "city": "Florida",
+    "capacity": 25500,
+    "wikidata_id": "Q16846942"
+  },
+  {
+    "slug": "dix_stadium",
+    "name": "Dix Stadium",
+    "city": "Kent",
+    "capacity": 25319,
+    "wikidata_id": "Q5284768"
+  },
+  {
+    "slug": "providence_park",
+    "name": "Providence Park",
+    "city": "Portland",
+    "capacity": 25218,
+    "wikidata_id": "Q262291"
+  },
+  {
+    "slug": "washington_grizzly_stadium",
+    "name": "Washington\u2013Grizzly Stadium",
+    "city": "Montana",
+    "capacity": 25217,
+    "wikidata_id": "Q7972603"
+  },
+  {
+    "slug": "sports_illustrated_stadium",
+    "name": "Sports Illustrated Stadium",
+    "city": "Harrison",
+    "capacity": 25189,
+    "wikidata_id": "Q761682"
+  },
+  {
+    "slug": "sporting_park",
+    "name": "Sporting Park",
+    "city": "Kansas City",
+    "capacity": 25000,
+    "wikidata_id": "Q1787141"
+  },
+  {
+    "slug": "etihad_park",
+    "name": "Etihad Park",
+    "city": "Queens",
+    "capacity": 25000,
+    "wikidata_id": "Q16845912"
+  },
+  {
+    "slug": "cramton_bowl",
+    "name": "Cramton Bowl",
+    "city": "Montgomery",
+    "capacity": 25000,
+    "wikidata_id": "Q5181871"
+  },
+  {
+    "slug": "williams_stadium",
+    "name": "Williams Stadium",
+    "city": "Lynchburg",
+    "capacity": 25000,
+    "wikidata_id": "Q8021099"
+  },
+  {
+    "slug": "bridgeforth_stadium_and_zane_showker_field",
+    "name": "Bridgeforth Stadium and Zane Showker Field",
+    "city": "Virginia",
+    "capacity": 24877,
+    "wikidata_id": "Q4966496"
+  },
+  {
+    "slug": "charles_schwab_field_omaha",
+    "name": "Charles Schwab Field Omaha",
+    "city": "Omaha",
+    "capacity": 24505,
+    "wikidata_id": "Q7669888"
+  },
+  {
+    "slug": "center_parc_stadium",
+    "name": "Center Parc Stadium",
+    "city": "Atlanta",
+    "capacity": 24333,
+    "wikidata_id": "Q28449162"
+  },
+  {
+    "slug": "paulson_stadium",
+    "name": "Paulson Stadium",
+    "city": "Georgia",
+    "capacity": 24300,
+    "wikidata_id": "Q7155374"
+  },
+  {
+    "slug": "yager_stadium",
+    "name": "Yager Stadium",
+    "city": "Ohio",
+    "capacity": 24286,
+    "wikidata_id": "Q8046702"
+  },
+  {
+    "slug": "charlotte_coliseum",
+    "name": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "capacity": 24042,
+    "wikidata_id": "Q632138"
+  },
+  {
+    "slug": "kenan_memorial_stadium",
+    "name": "Kenan Memorial Stadium",
+    "city": "Chapel Hill",
+    "capacity": 24000,
+    "wikidata_id": "Q1627986"
+  },
+  {
+    "slug": "marquette_stadium",
+    "name": "Marquette Stadium",
+    "city": "Milwaukee",
+    "capacity": 24000,
+    "wikidata_id": "Q6772620"
+  },
+  {
+    "slug": "jsu_stadium",
+    "name": "JSU Stadium",
+    "city": "Alabama",
+    "capacity": 24000,
+    "wikidata_id": "Q6108965"
+  },
+  {
+    "slug": "peden_stadium",
+    "name": "Peden Stadium",
+    "city": "Ohio",
+    "capacity": 24000,
+    "wikidata_id": "Q7159081"
+  },
+  {
+    "slug": "roosevelt_stadium",
+    "name": "Roosevelt Stadium",
+    "city": "Jersey City",
+    "capacity": 24000,
+    "wikidata_id": "Q7366501"
+  },
+  {
+    "slug": "audi_field",
+    "name": "Audi Field",
+    "city": "Washington, D.C.",
+    "capacity": 24000,
+    "wikidata_id": "Q5203387"
+  },
+  {
+    "slug": "ownby_stadium",
+    "name": "Ownby Stadium",
+    "city": "Dallas",
+    "capacity": 23783,
+    "wikidata_id": "Q7114921"
+  },
+  {
+    "slug": "usta_billie_jean_king_national_tennis_center",
+    "name": "USTA Billie Jean King National Tennis Center",
+    "city": "Queens",
+    "capacity": 23771,
+    "wikidata_id": "Q1852081"
+  },
+  {
+    "slug": "huskie_stadium",
+    "name": "Huskie Stadium",
+    "city": "Illinois",
+    "capacity": 23595,
+    "wikidata_id": "Q5949339"
+  },
+  {
+    "slug": "united_center",
+    "name": "United Center",
+    "city": "Illinois",
+    "capacity": 23500,
+    "wikidata_id": "Q639975"
+  },
+  {
+    "slug": "rupp_arena",
+    "name": "Rupp Arena",
+    "city": "Lexington",
+    "capacity": 23500,
+    "wikidata_id": "Q842965"
+  },
+  {
+    "slug": "fitton_field",
+    "name": "Fitton Field",
+    "city": "Massachusetts",
+    "capacity": 23500,
+    "wikidata_id": "Q5455506"
+  },
+  {
+    "slug": "rogers_field",
+    "name": "Rogers Field",
+    "city": "Pullman",
+    "capacity": 23500,
+    "wikidata_id": "Q7359275"
+  },
+  {
+    "slug": "doyt_perry_stadium",
+    "name": "Doyt Perry Stadium",
+    "city": "Ohio",
+    "capacity": 23232,
+    "wikidata_id": "Q5303813"
+  },
+  {
+    "slug": "johnny_rosenblatt_stadium",
+    "name": "Johnny Rosenblatt Stadium",
+    "city": "Omaha",
+    "capacity": 23145,
+    "wikidata_id": "Q2745635"
+  },
+  {
+    "slug": "alamo_stadium",
+    "name": "Alamo Stadium",
+    "city": "San Antonio",
+    "capacity": 23000,
+    "wikidata_id": "Q4705979"
+  },
+  {
+    "slug": "shibe_park",
+    "name": "Shibe Park",
+    "city": "Philadelphia",
+    "capacity": 23000,
+    "wikidata_id": "Q7496044"
+  },
+  {
+    "slug": "forbes_field",
+    "name": "Forbes Field",
+    "city": "Oakland",
+    "capacity": 23000,
+    "wikidata_id": "Q1963954"
+  },
+  {
+    "slug": "montgomery_stadium",
+    "name": "Montgomery Stadium",
+    "city": "Phoenix",
+    "capacity": 23000,
+    "wikidata_id": "Q6905790"
+  },
+  {
+    "slug": "historic_crew_stadium",
+    "name": "Historic Crew Stadium",
+    "city": "Columbus",
+    "capacity": 22555,
+    "wikidata_id": "Q1112858"
+  },
+  {
+    "slug": "arthur_ashe_stadium",
+    "name": "Arthur Ashe Stadium",
+    "city": "Queens",
+    "capacity": 22547,
+    "wikidata_id": "Q609551"
+  },
+  {
+    "slug": "jack_spinks_stadium",
+    "name": "Jack Spinks Stadium",
+    "city": "Mississippi",
+    "capacity": 22500,
+    "wikidata_id": "Q6115296"
+  },
+  {
+    "slug": "creighton_stadium",
+    "name": "Creighton Stadium",
+    "city": null,
+    "capacity": 22500,
+    "wikidata_id": "Q5184019"
+  },
+  {
+    "slug": "energizer_park",
+    "name": "Energizer Park",
+    "city": "St. Louis",
+    "capacity": 22500,
+    "wikidata_id": "Q30591730"
+  },
+  {
+    "slug": "tom_benson_hall_of_fame_stadium",
+    "name": "Tom Benson Hall of Fame Stadium",
+    "city": "Canton",
+    "capacity": 22375,
+    "wikidata_id": "Q5438734"
+  },
+  {
+    "slug": "houchens_industries_l_t_smith_stadium",
+    "name": "Houchens Industries\u2013L. T. Smith Stadium",
+    "city": "Bowling Green",
+    "capacity": 22113,
+    "wikidata_id": "Q5912732"
+  },
+  {
+    "slug": "kfc_yum_center",
+    "name": "KFC Yum! Center",
+    "city": "Louisville",
+    "capacity": 22090,
+    "wikidata_id": "Q10516134"
+  },
+  {
+    "slug": "the_palace_of_auburn_hills",
+    "name": "The Palace of Auburn Hills",
+    "city": "Michigan",
+    "capacity": 22076,
+    "wikidata_id": "Q1327633"
+  },
+  {
+    "slug": "shell_energy_stadium",
+    "name": "Shell Energy Stadium",
+    "city": "Houston",
+    "capacity": 22039,
+    "wikidata_id": "Q176460"
+  },
+  {
+    "slug": "downing_stadium",
+    "name": "Downing Stadium",
+    "city": "Manhattan",
+    "capacity": 22000,
+    "wikidata_id": "Q5303202"
+  },
+  {
+    "slug": "city_stadium",
+    "name": "City Stadium",
+    "city": "Richmond",
+    "capacity": 22000,
+    "wikidata_id": "Q5123443"
+  },
+  {
+    "slug": "oliver_c_dawson_stadium",
+    "name": "Oliver C. Dawson Stadium",
+    "city": "South Carolina",
+    "capacity": 22000,
+    "wikidata_id": "Q6587322"
+  },
+  {
+    "slug": "p_c_cobb_stadium",
+    "name": "P.C. Cobb Stadium",
+    "city": "Texas",
+    "capacity": 22000,
+    "wikidata_id": "Q7116970"
+  },
+  {
+    "slug": "roy_kidd_stadium",
+    "name": "Roy Kidd Stadium",
+    "city": "Kentucky",
+    "capacity": 22000,
+    "wikidata_id": "Q7373032"
+  },
+  {
+    "slug": "delaware_stadium",
+    "name": "Delaware Stadium",
+    "city": "Delaware",
+    "capacity": 22000,
+    "wikidata_id": "Q14685363"
+  },
+  {
+    "slug": "frank_youell_field",
+    "name": "Frank Youell Field",
+    "city": "California",
+    "capacity": 22000,
+    "wikidata_id": "Q5490535"
+  },
+  {
+    "slug": "juan_ram_n_loubriel_stadium",
+    "name": "Juan Ram\u00f3n Loubriel Stadium",
+    "city": "Bayam\u00f3n",
+    "capacity": 22000,
+    "wikidata_id": "Q1171030"
+  },
+  {
+    "slug": "bmo_stadium",
+    "name": "BMO Stadium",
+    "city": "California",
+    "capacity": 22000,
+    "wikidata_id": "Q22096111"
+  },
+  {
+    "slug": "dean_smith_center",
+    "name": "Dean Smith Center",
+    "city": "Chapel Hill",
+    "capacity": 21750,
+    "wikidata_id": "Q3020664"
+  },
+  {
+    "slug": "thompson_boling_arena_at_food_city_center",
+    "name": "Thompson-Boling Arena at Food City Center",
+    "city": "Knoxville",
+    "capacity": 21678,
+    "wikidata_id": "Q3525746"
+  },
+  {
+    "slug": "brec_memorial_stadium",
+    "name": "BREC Memorial Stadium",
+    "city": "Louisiana",
+    "capacity": 21500,
+    "wikidata_id": "Q4836349"
+  },
+  {
+    "slug": "alerus_center",
+    "name": "Alerus Center",
+    "city": "Grand Forks",
+    "capacity": 21000,
+    "wikidata_id": "Q4716244"
+  },
+  {
+    "slug": "american_legion_memorial_stadium",
+    "name": "American Legion Memorial Stadium",
+    "city": "North Carolina",
+    "capacity": 21000,
+    "wikidata_id": "Q4744348"
+  },
+  {
+    "slug": "bell_field",
+    "name": "Bell Field",
+    "city": "Corvallis",
+    "capacity": 21000,
+    "wikidata_id": "Q4883163"
+  },
+  {
+    "slug": "louis_crews_stadium",
+    "name": "Louis Crews Stadium",
+    "city": "Huntsville",
+    "capacity": 21000,
+    "wikidata_id": "Q6686944"
+  },
+  {
+    "slug": "railyards_stadium",
+    "name": "Railyards Stadium",
+    "city": null,
+    "capacity": 21000,
+    "wikidata_id": "Q85795671"
+  },
+  {
+    "slug": "pyramid_arena",
+    "name": "Pyramid Arena",
+    "city": "Memphis",
+    "capacity": 21000,
+    "wikidata_id": "Q2226897"
+  },
+  {
+    "slug": "marriott_center",
+    "name": "Marriott Center",
+    "city": "Provo",
+    "capacity": 20951,
+    "wikidata_id": "Q14711804"
+  },
+  {
+    "slug": "madison_square_garden",
+    "name": "Madison Square Garden",
+    "city": "Manhattan",
+    "capacity": 20789,
+    "wikidata_id": "Q186125"
+  },
+  {
+    "slug": "amerant_bank_arena",
+    "name": "Amerant Bank Arena",
+    "city": "Sunrise",
+    "capacity": 20737,
+    "wikidata_id": "Q795526"
+  },
+  {
+    "slug": "crosley_field",
+    "name": "Crosley Field",
+    "city": "Cincinnati",
+    "capacity": 20696,
+    "wikidata_id": "Q3003747"
+  },
+  {
+    "slug": "capital_one_arena",
+    "name": "Capital One Arena",
+    "city": "Washington, D.C.",
+    "capacity": 20674,
+    "wikidata_id": "Q223240"
+  },
+  {
+    "slug": "finley_stadium",
+    "name": "Finley Stadium",
+    "city": "Chattanooga",
+    "capacity": 20668,
+    "wikidata_id": "Q5450585"
+  },
+  {
+    "slug": "moda_center",
+    "name": "Moda Center",
+    "city": "Portland",
+    "capacity": 20636,
+    "wikidata_id": "Q1347442"
+  },
+  {
+    "slug": "stambaugh_stadium",
+    "name": "Stambaugh Stadium",
+    "city": "Ohio",
+    "capacity": 20630,
+    "wikidata_id": "Q6587172"
+  },
+  {
+    "slug": "rocket_arena",
+    "name": "Rocket Arena",
+    "city": "Cleveland",
+    "capacity": 20562,
+    "wikidata_id": "Q387157"
+  },
+  {
+    "slug": "toyota_stadium",
+    "name": "Toyota Stadium",
+    "city": "Texas",
+    "capacity": 20500,
+    "wikidata_id": "Q1140457"
+  },
+  {
+    "slug": "lockhart_stadium",
+    "name": "Lockhart Stadium",
+    "city": "Fort Lauderdale",
+    "capacity": 20450,
+    "wikidata_id": "Q1867553"
+  },
+  {
+    "slug": "weingart_stadium",
+    "name": "Weingart Stadium",
+    "city": "California",
+    "capacity": 20355,
+    "wikidata_id": "Q2555922"
+  },
+  {
+    "slug": "charles_c_hughes_stadium",
+    "name": "Charles C. Hughes Stadium",
+    "city": "California",
+    "capacity": 20311,
+    "wikidata_id": "Q5076000"
+  },
+  {
+    "slug": "america_first_field",
+    "name": "America First Field",
+    "city": "Sandy",
+    "capacity": 20213,
+    "wikidata_id": "Q1514798"
+  },
+  {
+    "slug": "scottsmiracle_gro_field",
+    "name": "ScottsMiracle-Gro Field",
+    "city": "Columbus",
+    "capacity": 20139,
+    "wikidata_id": "Q65045869"
+  },
+  {
+    "slug": "kornblau_field_at_s_b_ballard_stadium",
+    "name": "Kornblau Field at S.B. Ballard Stadium",
+    "city": "Q49231",
+    "capacity": 20118,
+    "wikidata_id": "Q5468640"
+  },
+  {
+    "slug": "meadowlands_arena",
+    "name": "Meadowlands Arena",
+    "city": "New Jersey",
+    "capacity": 20049,
+    "wikidata_id": "Q538218"
+  },
+  {
+    "slug": "pitbull_stadium",
+    "name": "Pitbull Stadium",
+    "city": "Miami-Dade County",
+    "capacity": 20000,
+    "wikidata_id": "Q1388701"
+  },
+  {
+    "slug": "seatgeek_stadium",
+    "name": "SeatGeek Stadium",
+    "city": "Bridgeview",
+    "capacity": 20000,
+    "wikidata_id": "Q999781"
+  },
+  {
+    "slug": "kimbrough_memorial_stadium",
+    "name": "Kimbrough Memorial Stadium",
+    "city": "Canyon",
+    "capacity": 20000,
+    "wikidata_id": "Q6410023"
+  },
+  {
+    "slug": "trinity_health_stadium",
+    "name": "Trinity Health Stadium",
+    "city": "Hartford",
+    "capacity": 20000,
+    "wikidata_id": "Q5276946"
+  },
+  {
+    "slug": "holleder_memorial_stadium",
+    "name": "Holleder Memorial Stadium",
+    "city": "New York",
+    "capacity": 20000,
+    "wikidata_id": "Q5881204"
+  },
+  {
+    "slug": "brown_stadium",
+    "name": "Brown Stadium",
+    "city": "Rhode Island",
+    "capacity": 20000,
+    "wikidata_id": "Q4976267"
+  },
+  {
+    "slug": "clark_field",
+    "name": "Clark Field",
+    "city": "Austin",
+    "capacity": 20000,
+    "wikidata_id": "Q5127221"
+  },
+  {
+    "slug": "temple_stadium",
+    "name": "Temple Stadium",
+    "city": "Pennsylvania",
+    "capacity": 20000,
+    "wikidata_id": "Q7698669"
+  },
+  {
+    "slug": "lincoln_yards_stadium",
+    "name": "Lincoln Yards Stadium",
+    "city": "Chicago",
+    "capacity": 20000,
+    "wikidata_id": "Q55886178"
+  },
+  {
+    "slug": "silver_state_arena",
+    "name": "Silver State Arena",
+    "city": "Las Vegas Strip",
+    "capacity": 20000,
+    "wikidata_id": "Q16632380"
+  },
+  {
+    "slug": "t_mobile_arena",
+    "name": "T-Mobile Arena",
+    "city": "Clark County",
+    "capacity": 20000,
+    "wikidata_id": "Q3338973"
+  },
+  {
+    "slug": "bowman_gray_stadium",
+    "name": "Bowman Gray Stadium",
+    "city": "Winston-Salem",
+    "capacity": 20000,
+    "wikidata_id": "Q2072723"
+  },
+  {
+    "slug": "elysian_fields_hoboken_new_jersey",
+    "name": "Elysian Fields, Hoboken, New Jersey",
+    "city": "Hoboken",
+    "capacity": 20000,
+    "wikidata_id": "Q5368562"
+  },
+  {
+    "slug": "california_field",
+    "name": "California Field",
+    "city": "Berkeley",
+    "capacity": 20000,
+    "wikidata_id": "Q5020490"
+  },
+  {
+    "slug": "osborne_field",
+    "name": "Osborne Field",
+    "city": "Princeton",
+    "capacity": 20000,
+    "wikidata_id": "Q7105786"
+  },
+  {
+    "slug": "taylor_stadium",
+    "name": "Taylor Stadium",
+    "city": "Bethlehem",
+    "capacity": 20000,
+    "wikidata_id": "Q7690137"
+  },
+  {
+    "slug": "toyota_stadium_georgetown_kentucky",
+    "name": "Toyota Stadium (Georgetown, Kentucky)",
+    "city": "Kentucky",
+    "capacity": 20000,
+    "wikidata_id": "Q14691369"
+  },
+  {
+    "slug": "groves_stadium_1940",
+    "name": "Groves Stadium (1940)",
+    "city": "North Carolina",
+    "capacity": 20000,
+    "wikidata_id": "Q14707957"
+  },
+  {
+    "slug": "mike_a_myers_stadium",
+    "name": "Mike A. Myers Stadium",
+    "city": "Texas",
+    "capacity": 20000,
+    "wikidata_id": "Q6588130"
+  },
+  {
+    "slug": "brooks_stadium",
+    "name": "Brooks Stadium",
+    "city": "South Carolina",
+    "capacity": 20000,
+    "wikidata_id": "Q4975053"
+  },
+  {
+    "slug": "phillips_field",
+    "name": "Phillips Field",
+    "city": "Florida",
+    "capacity": 20000,
+    "wikidata_id": "Q22096543"
+  },
+  {
+    "slug": "rose_quarter",
+    "name": "Rose Quarter",
+    "city": "Portland",
+    "capacity": 19980,
+    "wikidata_id": "Q7367909"
+  },
+  {
+    "slug": "delta_center",
+    "name": "Delta Center",
+    "city": "Salt Lake City",
+    "capacity": 19911,
+    "wikidata_id": "Q82294"
+  },
+  {
+    "slug": "lenovo_center",
+    "name": "Lenovo Center",
+    "city": "North Carolina",
+    "capacity": 19722,
+    "wikidata_id": "Q39177"
+  },
+  {
+    "slug": "eddie_robinson_stadium",
+    "name": "Eddie Robinson Stadium",
+    "city": "Louisiana",
+    "capacity": 19600,
+    "wikidata_id": "Q5336453"
+  },
+  {
+    "slug": "oakland_arena",
+    "name": "Oakland Arena",
+    "city": "Oakland",
+    "capacity": 19596,
+    "wikidata_id": "Q1139021"
+  },
+  {
+    "slug": "hy_vee_arena",
+    "name": "Hy-Vee Arena",
+    "city": "Kansas City",
+    "capacity": 19500,
+    "wikidata_id": "Q1489399"
+  },
+  {
+    "slug": "state_farm_arena",
+    "name": "State Farm Arena",
+    "city": "Fulton County",
+    "capacity": 19445,
+    "wikidata_id": "Q1123297"
+  },
+  {
+    "slug": "allianz_field",
+    "name": "Allianz Field",
+    "city": "Saint Paul",
+    "capacity": 19400,
+    "wikidata_id": "Q22096631"
+  },
+  {
+    "slug": "bridgestone_arena",
+    "name": "Bridgestone Arena",
+    "city": "Nashville",
+    "capacity": 19395,
+    "wikidata_id": "Q302869"
+  },
+  {
+    "slug": "bud_walton_arena",
+    "name": "Bud Walton Arena",
+    "city": "Fayetteville",
+    "capacity": 19368,
+    "wikidata_id": "Q2927497"
+  },
+  {
+    "slug": "ratliff_stadium",
+    "name": "Ratliff Stadium",
+    "city": "Odessa",
+    "capacity": 19302,
+    "wikidata_id": "Q7295820"
+  },
+  {
+    "slug": "joe_louis_arena",
+    "name": "Joe Louis Arena",
+    "city": "Detroit",
+    "capacity": 19275,
+    "wikidata_id": "Q168579"
+  },
+  {
+    "slug": "t_mobile_center",
+    "name": "T-Mobile Center",
+    "city": "Kansas City",
+    "capacity": 19252,
+    "wikidata_id": "Q1815329"
+  },
+  {
+    "slug": "american_airlines_center",
+    "name": "American Airlines Center",
+    "city": "Dallas",
+    "capacity": 19200,
+    "wikidata_id": "Q463345"
+  },
+  {
+    "slug": "bok_center",
+    "name": "BOK Center",
+    "city": "Oklahoma",
+    "capacity": 19199,
+    "wikidata_id": "Q2877349"
+  },
+  {
+    "slug": "sap_center",
+    "name": "SAP Center",
+    "city": "San Jose",
+    "capacity": 19190,
+    "wikidata_id": "Q261863"
+  },
+  {
+    "slug": "ball_arena",
+    "name": "Ball Arena",
+    "city": "Colorado",
+    "capacity": 19155,
+    "wikidata_id": "Q795470"
+  },
+  {
+    "slug": "keybank_center",
+    "name": "KeyBank Center",
+    "city": "Buffalo",
+    "capacity": 19070,
+    "wikidata_id": "Q1110789"
+  },
+  {
+    "slug": "crypto_com_arena",
+    "name": "Crypto.com Arena",
+    "city": "Los Angeles",
+    "capacity": 19060,
+    "wikidata_id": "Q186080"
+  },
+  {
+    "slug": "value_city_arena",
+    "name": "Value City Arena",
+    "city": "Ohio",
+    "capacity": 19049,
+    "wikidata_id": "Q783033"
+  },
+  {
+    "slug": "mortgage_matchup_center",
+    "name": "Mortgage Matchup Center",
+    "city": "Phoenix",
+    "capacity": 19023,
+    "wikidata_id": "Q1538690"
+  },
+  {
+    "slug": "desert_diamond_arena",
+    "name": "Desert Diamond Arena",
+    "city": "Glendale",
+    "capacity": 19000,
+    "wikidata_id": "Q1421377"
+  },
+  {
+    "slug": "cheyenne_frontier_days_arena",
+    "name": "Cheyenne Frontier Days Arena",
+    "city": "Cheyenne",
+    "capacity": 19000,
+    "wikidata_id": "Q5094577"
+  },
+  {
+    "slug": "chi_health_center_omaha",
+    "name": "CHI Health Center Omaha",
+    "city": "Nebraska",
+    "capacity": 18975,
+    "wikidata_id": "Q769480"
+  },
+  {
+    "slug": "kia_center",
+    "name": "Kia Center",
+    "city": "Orlando",
+    "capacity": 18846,
+    "wikidata_id": "Q481795"
+  },
+  {
+    "slug": "bradley_center",
+    "name": "Bradley Center",
+    "city": "Milwaukee",
+    "capacity": 18800,
+    "wikidata_id": "Q737976"
+  },
+  {
+    "slug": "washington_park_iii",
+    "name": "Washington Park III",
+    "city": "New York",
+    "capacity": 18800,
+    "wikidata_id": "Q115650862"
+  },
+  {
+    "slug": "thomas_mack_center",
+    "name": "Thomas & Mack Center",
+    "city": "Clark County",
+    "capacity": 18776,
+    "wikidata_id": "Q686525"
+  },
+  {
+    "slug": "capital_centre",
+    "name": "Capital Centre",
+    "city": null,
+    "capacity": 18756,
+    "wikidata_id": "Q3656844"
+  },
+  {
+    "slug": "chicago_stadium",
+    "name": "Chicago Stadium",
+    "city": "Chicago",
+    "capacity": 18676,
+    "wikidata_id": "Q2703852"
+  },
+  {
+    "slug": "frost_bank_center",
+    "name": "Frost Bank Center",
+    "city": "San Antonio",
+    "capacity": 18581,
+    "wikidata_id": "Q298573"
+  },
+  {
+    "slug": "farrington_field",
+    "name": "Farrington Field",
+    "city": "Texas",
+    "capacity": 18500,
+    "wikidata_id": "Q5436299"
+  },
+  {
+    "slug": "jos_miguel_agrelot_coliseum",
+    "name": "Jos\u00e9 Miguel Agrelot Coliseum",
+    "city": "Puerto Rico",
+    "capacity": 18500,
+    "wikidata_id": "Q2889550"
+  },
+  {
+    "slug": "allstate_arena",
+    "name": "Allstate Arena",
+    "city": "Illinois",
+    "capacity": 18500,
+    "wikidata_id": "Q1336027"
+  },
+  {
+    "slug": "golden_1_center",
+    "name": "Golden 1 Center",
+    "city": "Sacramento",
+    "capacity": 18500,
+    "wikidata_id": "Q7011384"
+  },
+  {
+    "slug": "subaru_park",
+    "name": "Subaru Park",
+    "city": "Chester",
+    "capacity": 18500,
+    "wikidata_id": "Q1637843"
+  },
+  {
+    "slug": "enterprise_center",
+    "name": "Enterprise Center",
+    "city": "St. Louis",
+    "capacity": 18400,
+    "wikidata_id": "Q1067700"
+  },
+  {
+    "slug": "ppg_paints_arena",
+    "name": "PPG Paints Arena",
+    "city": "Pittsburgh",
+    "capacity": 18387,
+    "wikidata_id": "Q595460"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Spectrum",
+    "city": "Philadelphia",
+    "capacity": 18369,
+    "wikidata_id": "Q2085822"
+  },
+  {
+    "slug": "paycom_center",
+    "name": "Paycom Center",
+    "city": "Oklahoma City",
+    "capacity": 18203,
+    "wikidata_id": "Q665434"
+  },
+  {
+    "slug": "metropolitan_stadium",
+    "name": "Metropolitan Stadium",
+    "city": "Bloomington",
+    "capacity": 18200,
+    "wikidata_id": "Q1415967"
+  },
+  {
+    "slug": "taft_stadium",
+    "name": "Taft Stadium",
+    "city": "Oklahoma",
+    "capacity": 18200,
+    "wikidata_id": "Q7675049"
+  },
+  {
+    "slug": "gainbridge_fieldhouse",
+    "name": "Gainbridge Fieldhouse",
+    "city": "Indianapolis",
+    "capacity": 18165,
+    "wikidata_id": "Q545007"
+  },
+  {
+    "slug": "nationwide_arena",
+    "name": "Nationwide Arena",
+    "city": "Ohio",
+    "capacity": 18144,
+    "wikidata_id": "Q166503"
+  },
+  {
+    "slug": "fedexforum",
+    "name": "FedExForum",
+    "city": "Tennessee",
+    "capacity": 18119,
+    "wikidata_id": "Q641212"
+  },
+  {
+    "slug": "grand_casino_arena",
+    "name": "Grand Casino Arena",
+    "city": "Saint Paul",
+    "capacity": 18064,
+    "wikidata_id": "Q1421388"
+  },
+  {
+    "slug": "toyota_center",
+    "name": "Toyota Center",
+    "city": "Houston",
+    "capacity": 18023,
+    "wikidata_id": "Q1166157"
+  },
+  {
+    "slug": "new_york_velodrome",
+    "name": "New York Velodrome",
+    "city": "The Bronx",
+    "capacity": 18000,
+    "wikidata_id": "Q7014821"
+  },
+  {
+    "slug": "simmons_bank_arena",
+    "name": "Simmons Bank Arena",
+    "city": "North Little Rock",
+    "capacity": 18000,
+    "wikidata_id": "Q3555887"
+  },
+  {
+    "slug": "chase_stadium",
+    "name": "Chase Stadium",
+    "city": "Fort Lauderdale",
+    "capacity": 18000,
+    "wikidata_id": "Q65240568"
+  },
+  {
+    "slug": "eagle_stadium",
+    "name": "Eagle Stadium",
+    "city": "Allen",
+    "capacity": 18000,
+    "wikidata_id": "Q5325261"
+  },
+  {
+    "slug": "astound_broadband_stadium",
+    "name": "Astound Broadband Stadium",
+    "city": "Midland",
+    "capacity": 18000,
+    "wikidata_id": "Q5595309"
+  },
+  {
+    "slug": "ferry_field",
+    "name": "Ferry Field",
+    "city": "Ann Arbor",
+    "capacity": 18000,
+    "wikidata_id": "Q5445483"
+  },
+  {
+    "slug": "ebbets_field",
+    "name": "Ebbets Field",
+    "city": "Brooklyn",
+    "capacity": 18000,
+    "wikidata_id": "Q1278537"
+  },
+  {
+    "slug": "climate_pledge_arena",
+    "name": "Climate Pledge Arena",
+    "city": "Seattle",
+    "capacity": 18000,
+    "wikidata_id": "Q977529"
+  },
+  {
+    "slug": "colonial_life_arena",
+    "name": "Colonial Life Arena",
+    "city": "Columbia",
+    "capacity": 18000,
+    "wikidata_id": "Q1110887"
+  },
+  {
+    "slug": "grambling_stadium",
+    "name": "Grambling Stadium",
+    "city": "Grambling",
+    "capacity": 18000,
+    "wikidata_id": "Q5593612"
+  },
+  {
+    "slug": "chase_center",
+    "name": "Chase Center",
+    "city": "San Francisco",
+    "capacity": 18000,
+    "wikidata_id": "Q15262098"
+  },
+  {
+    "slug": "paypal_park",
+    "name": "PayPal Park",
+    "city": "San Jose",
+    "capacity": 18000,
+    "wikidata_id": "Q3046470"
+  },
+  {
+    "slug": "xfinity_center",
+    "name": "Xfinity Center",
+    "city": "College Park",
+    "capacity": 17950,
+    "wikidata_id": "Q2985114"
+  }
+]

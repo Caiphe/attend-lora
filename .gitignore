@@ -1,0 +1,53 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Model artifacts (large + generated)
+outputs/loras/*.safetensors
+outputs/samples/
+data/processed/images/
+data/raw/*
+
+# Keep the .gitkeep stubs so empty dirs survive
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/loras/.gitkeep
+!outputs/samples/.gitkeep
+
+# HuggingFace + W&B caches if they end up local
+.cache/
+wandb/
+hf-cache/
+
+# Node / Vite
+ui/node_modules/
+ui/dist/
+ui/.vite/
+ui/*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~

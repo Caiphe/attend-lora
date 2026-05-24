@@ -1,0 +1,45 @@
+/* Component-level overrides not easily expressed inline. */
+
+.field-input:focus,
+.field-select:focus {
+  outline: none;
+  border-color: #3b82f6 !important;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+
+.primary-btn:hover:not(:disabled) {
+  background: #2563eb !important;
+  transform: translateY(-1px);
+}
+.primary-btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.ghost-btn:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.04) !important;
+  color: #e4e7ec !important;
+}
+
+.advanced-toggle:hover {
+  color: #e4e7ec !important;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  background: rgba(59, 130, 246, 0.12);
+  color: #93c5fd;
+  border: 1px solid rgba(59, 130, 246, 0.25);
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+.collapse {
+  overflow: hidden;
+  transition: max-height 0.3s ease, opacity 0.25s ease;
+}
+.collapse.closed { max-height: 0; opacity: 0; }
+.collapse.open   { max-height: 320px; opacity: 1; }
